@@ -1,0 +1,30 @@
+_repo: The-Lenape-Stoneor-The-Indian-and-the-Mammoth_45853
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45853-h/images/front-cover.jpg
+creator:
+  author:
+    agent_name: Mercer, Henry C.
+    alias: Mercer, Henry Chapman
+    birthdate: 1856
+    deathdate: 1930
+    gutenberg_agent_id: '43493'
+    url: http://www.gutenberg.org/2009/agents/43493
+description: ''
+gutenberg_issued: '2014-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45853'
+  lccn: '02015505'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Delaware Indians'
+- !lcsh 'Mammoths'
+- !lcsh 'Picture-writing, Indian'
+- !lcc 'E011'
+title: The Lenape Stone; or, The Indian and the Mammoth
+url: http://www.gutenberg.org/ebooks/45853
